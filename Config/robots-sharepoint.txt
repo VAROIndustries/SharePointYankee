@@ -1,0 +1,24 @@
+# robots-sharepoint.txt
+# Block search engine indexing of SharePoint search result pages
+# Add these entries to your site's robots.txt
+#
+# Blog Post: https://sharepointyankee.com/stay-away-from-my-search-result-pages-insert-search-engine-name-here-bot
+# Author: Geoff Varosky
+# Website: https://sharepointyankee.com
+
+User-agent: *
+Disallow: /search/pages/results.aspx
+Disallow: /Search/Pages/Results.aspx
+Disallow: /Search/Pages/results.aspx
+Disallow: /Search/pages/Results.aspx
+Disallow: /search/Pages/Results.aspx
+Disallow: /search/pages/Results.aspx
+Disallow: /Search/pages/results.aspx
+Disallow: /search/Pages/results.aspx
+Disallow: /search/
+Disallow: /Search/
+Disallow: /Search/Pages/
+Disallow: /Search/pages/
+Disallow: /search/Pages/
+Disallow: /*Results.aspx
+Disallow: /*results.aspx

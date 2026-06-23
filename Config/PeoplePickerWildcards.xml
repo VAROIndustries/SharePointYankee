@@ -1,0 +1,14 @@
+<!-- PeoplePickerWildcards.xml -->
+<!-- web.config snippet to enable wildcard search for FBA users in the SharePoint People Picker -->
+<!-- Add this section inside the <SharePoint> node of your web.config -->
+<!--
+  Blog Post: https://sharepointyankee.com/wildcard-search-for-forms-based-authentication-users-in-the-sharepoint-2010-people-picker-not-working
+  Author: Geoff Varosky
+  Website: https://sharepointyankee.com
+-->
+
+<PeoplePickerWildcards>
+    <clear />
+    <add key="SQL-RoleManager" value="%" />
+    <add key="SQL-MembershipProvider" value="%" />
+</PeoplePickerWildcards>

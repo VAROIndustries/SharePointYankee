@@ -1,0 +1,11 @@
+; IE-EnableScriptErrors.reg
+; Enable "Display a notification about every script error" in Internet Explorer
+;
+; Blog Post: https://sharepointyankee.com/internet-explorer-registry-shortcuts-for-enabling-and-disabling-scripting-error-notifications
+; Author: Geoff Varosky
+; Website: https://sharepointyankee.com
+
+Windows Registry Editor Version 5.00
+
+[HKEY_CURRENT_USER\Software\Microsoft\Internet Explorer\Main]
+"Error Dlg Displayed On Every Error"="yes"

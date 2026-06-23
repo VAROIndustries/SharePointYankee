@@ -1,0 +1,8 @@
+logs/
+docker-compose.yml
+seo-meta-tags.php
+*.tmp
+*.log
+.DS_Store
+Thumbs.db
+.claude/
