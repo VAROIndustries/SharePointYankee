@@ -36,6 +36,9 @@ Many of these scripts were originally published as part of blog posts over the y
 | [New-BulkSharePointSites.ps1](SharePoint/Online/New-BulkSharePointSites.ps1) | Bulk-create SharePoint Online sites from a CSV | |
 | [Remove-SPFileVersions.ps1](SharePoint/Online/Remove-SPFileVersions.ps1) | Remove file versions in SharePoint Online via PnP | |
 | [Set-SPOExternalSharing.ps1](SharePoint/Online/Set-SPOExternalSharing.ps1) | Configure external sharing settings across site collections | |
+| [Get-PreservationHoldLibrary.ps1](SharePoint/Online/Get-PreservationHoldLibrary.ps1) | Inventory the hidden Preservation Hold Library with size and version stats | |
+| [Get-RecycleBin.ps1](SharePoint/Online/Get-RecycleBin.ps1) | Report on first-stage and second-stage recycle bin contents with size breakdown | |
+| [Get-SiteContents.ps1](SharePoint/Online/Get-SiteContents.ps1) | Full site inventory of all lists, libraries, and items with version and size data | |
 
 ## Azure & Microsoft 365
 
