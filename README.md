@@ -1,5 +1,7 @@
 # SharePoint Yankee Scripts
 
+_Built by [VARØ Industries](https://varo.industries/apps)_
+
 A collection of PowerShell scripts, code snippets, and configuration files from [SharePointYankee.com](https://sharepointyankee.com) covering SharePoint, Azure, Microsoft 365, and related Microsoft technologies.
 
 Many of these scripts were originally published as part of blog posts over the years. Others come from a decade-plus of real-world consulting, administration, and development work. This repo puts them all in one place for easy reference and reuse.
