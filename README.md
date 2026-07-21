@@ -1,5 +1,8 @@
 # SharePoint Yankee Scripts
 
+**🌐 Tool page: [varo.industries/tools/sharepointyankee](https://varo.industries/tools/sharepointyankee)** — features, screenshots, install, and FAQ.
+
+
 _Built by [VARØ Industries](https://varo.industries/apps#github)_
 
 A collection of PowerShell scripts, code snippets, and configuration files from [SharePointYankee.com](https://sharepointyankee.com) covering SharePoint, Azure, Microsoft 365, and related Microsoft technologies.
