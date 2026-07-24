@@ -62,6 +62,18 @@ Many of these scripts were originally published as part of blog posts over the y
 | [Test-WebsiteHealth.ps1](Monitoring/Test-WebsiteHealth.ps1) | Test website health (HTTP status, response time, SSL cert expiry) | [Read More](https://sharepointyankee.com/creating-runbooks-in-azure-and-calling-them-from-sharepoint-using-webhooks-and-flow) |
 | [Get-HttpResponseHeaders.ps1](Monitoring/Get-HttpResponseHeaders.ps1) | Retrieve and display HTTP response headers from any URL | [Read More](https://sharepointyankee.com/powershell-script-to-get-http-headers) |
 
+## Windows Utilities
+
+| Script | Description | Blog Post |
+|---|---|---|
+| [Chameleon-Tray.ps1](Windows-Utilities/Chameleon/Chameleon-Tray.ps1) | System-tray app that auto-switches Wi-Fi when a monitor/dock attaches (settings editor, start-with-Windows, lizard icon) | |
+| [Chameleon.ps1](Windows-Utilities/Chameleon/Chameleon.ps1) | Background watcher version — runs hidden via Task Scheduler at logon | |
+| [Chameleon-Portable.ps1](Windows-Utilities/Chameleon/Chameleon-Portable.ps1) | Portable version — runs from a USB stick, config lives next to the script | |
+| [Get-AttachedDevices.ps1](Windows-Utilities/Chameleon/Get-AttachedDevices.ps1) | List attached PnP devices, indented by class, to find the device match string | |
+| [Build-Tray.ps1](Windows-Utilities/Chameleon/Build-Tray.ps1) | Compile the tray app into a standalone .exe via ps2exe | |
+
+> Full project, releases, and the compiled `.exe`: [github.com/VAROIndustries/Chameleon](https://github.com/VAROIndustries/Chameleon)
+
 ## Email
 
 | Script | Description |

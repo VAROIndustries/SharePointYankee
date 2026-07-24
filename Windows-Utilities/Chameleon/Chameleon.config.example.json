@@ -1,0 +1,6 @@
+{
+  "deviceMatch": "*Your Monitor Or Dock Name*",
+  "wifiWhenConnected": "OfficeWiFi",
+  "wifiWhenDisconnected": "HomeWiFi",
+  "wifiInterface": "Wi-Fi"
+}
