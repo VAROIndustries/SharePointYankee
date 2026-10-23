@@ -59,7 +59,7 @@ Many of these scripts were originally published as part of blog posts over the y
 
 | Script | Description | Blog Post |
 |---|---|---|
-| [New-LocalCertificate.ps1](Security/New-LocalCertificate.ps1) | Create a self-signed certificate and export the .cer/.pfx safely: refuses to overwrite files, won't write into a Git repo, confirms the password, and can remove the cert from the store afterwards | |
+| [New-LocalCertificate.ps1](Security/New-LocalCertificate.ps1) | Create a self-signed certificate and export the .cer/.pfx safely: refuses to overwrite files, won't write into a Git repo, confirms the password, and can remove the cert from the store afterwards | [Read More](https://sharepointyankee.com/2026/10/23/generate-self-signed-certificates-safely-with-powershell/) |
 
 ## Monitoring
 
