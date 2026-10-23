@@ -55,6 +55,12 @@ Many of these scripts were originally published as part of blog posts over the y
 | [New-GraphBulkUserReport.ps1](Azure/New-GraphBulkUserReport.ps1) | Generate bulk user reports with MFA status and last sign-in via Microsoft Graph | |
 | [Get-AzureUpdatesReport.ps1](Azure/Monitoring/Get-AzureUpdatesReport.ps1) | Fetch and format Azure service update reports from RSS | |
 
+## Security & Certificates
+
+| Script | Description | Blog Post |
+|---|---|---|
+| [New-LocalCertificate.ps1](Security/New-LocalCertificate.ps1) | Create a self-signed certificate and export the .cer/.pfx safely: refuses to overwrite files, won't write into a Git repo, confirms the password, and can remove the cert from the store afterwards | |
+
 ## Monitoring
 
 | Script | Description | Blog Post |
