@@ -60,6 +60,7 @@ Many of these scripts were originally published as part of blog posts over the y
 | Script | Description | Blog Post |
 |---|---|---|
 | [New-LocalCertificate.ps1](Security/New-LocalCertificate.ps1) | Create a self-signed certificate and export the .cer/.pfx safely: refuses to overwrite files, won't write into a Git repo, confirms the password, and can remove the cert from the store afterwards | [Read More](https://sharepointyankee.com/2026/10/23/generate-self-signed-certificates-safely-with-powershell/) |
+| [sshole-check.sh](Security/sshole-check.sh) | Read-only check of a Linux host and its running Docker containers for *sshole (CVE-2026-123158), OpenSSH on musl without PAM | [Read More](https://sharepointyankee.com/2026/11/06/sshole-checking-your-linux-hosts-and-docker-containers-for-the-openssh-musl-password-bypass/) |
 
 ## Monitoring
 
